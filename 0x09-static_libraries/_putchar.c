@@ -7,6 +7,10 @@
  * Return: nothing, return void
  */
 
+Int _putchar(char c)
+{
+
+}
 int main(void)
 {
 _putchar('_');
